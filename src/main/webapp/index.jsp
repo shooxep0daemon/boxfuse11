@@ -8,6 +8,8 @@
 
 <h2>You have successfully launched your Instance!</h2>
 
+THIS IS YOUR CAPTAIN SPEAKING!
+
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
 </strong>.</p>
